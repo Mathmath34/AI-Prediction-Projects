@@ -1,7 +1,4 @@
-Voici divers projets de prédiction réalisés en groupe, avec Python:
-
--Un projet de régression (prédiction du prix d'une voiture en fonction de ses caractéristiques)
-
--Un projet de régression (prédiction de la température en fonction de paramètres climatiques)
-
--Un projet de traitement automatique des langues (dont le but est de prédire l'auteur d'un discours)
+Réalisation de plusieurs projets de groupe en Python exploitant des librairies d’intelligence artificielle pour des tâches de prédiction, notamment :
+– un modèle de régression pour estimer le prix d’un véhicule à partir de ses caractéristiques ;
+– un modèle de régression pour prédire la température selon des paramètres climatiques ;
+– un projet de traitement automatique du langage visant à identifier l’auteur d’un discours.
